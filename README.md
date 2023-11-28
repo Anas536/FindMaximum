@@ -60,6 +60,7 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
+
 ## i) To find the maximum of marks using the list method sort.
 ![Screenshot 2023-11-28 082205](https://github.com/Anas536/FindMaximum/assets/139841834/2ab4d3eb-62bf-4d63-95b0-748ab66b1af6)
 
